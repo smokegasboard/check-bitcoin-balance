@@ -1,4 +1,4 @@
-# check-bitcoin-balance
+# check bitcoin balance
 
 ## Description
 
